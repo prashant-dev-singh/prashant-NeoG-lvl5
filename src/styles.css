@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+
+  margin: auto;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: rgb(95, 90, 168);
+  background: linear-gradient(
+    90deg,
+    rgba(95, 90, 168, 1) 0%,
+    rgba(151, 71, 194, 1) 1%,
+    rgba(55, 187, 214, 1) 100%
+  );
+}
+
+.inputtxt {
+  height: 2rem;
+  border-radius: 10px;
+}
+
+.cont {
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+  width: 70vh;
+  height: 50vh;
+  border-radius: 5px;
+}
